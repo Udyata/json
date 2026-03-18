@@ -1,0 +1,702 @@
+[
+  {
+    "no": 1,
+    "trn": "100249157300001",
+    "legalName": "Al Noor Trading LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading"
+  },
+  {
+    "no": 2,
+    "trn": "100249157300002",
+    "legalName": "Star Restaurant LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant"
+  },
+  {
+    "no": 3,
+    "trn": "100249157300003",
+    "legalName": "Gulf Hardware Trading LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware"
+  },
+  {
+    "no": 4,
+    "trn": "100249157300004",
+    "legalName": "Fresh Mart Supermarket LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket"
+  },
+  {
+    "no": 5,
+    "trn": "100249157300005",
+    "legalName": "Mobile Hub Trading LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories"
+  },
+  {
+    "no": 6,
+    "trn": "100249157300006",
+    "legalName": "Fashion World Garments LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading"
+  },
+  {
+    "no": 7,
+    "trn": "100249157300007",
+    "legalName": "BuildPro Materials LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant"
+  },
+  {
+    "no": 8,
+    "trn": "100249157300008",
+    "legalName": "AutoSpare Hub LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware"
+  },
+  {
+    "no": 9,
+    "trn": "100249157300009",
+    "legalName": "TechZone Distribution LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket"
+  },
+  {
+    "no": 10,
+    "trn": "100249157300010",
+    "legalName": "Royal Perfumes Trading LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories"
+  },
+  {
+    "no": 11,
+    "trn": "100249157300011",
+    "legalName": "Comfort Furniture LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading"
+  },
+  {
+    "no": 12,
+    "trn": "100249157300012",
+    "legalName": "Prime Grocery Wholesale LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant"
+  },
+  {
+    "no": 13,
+    "trn": "100249157300013",
+    "legalName": "Beauty Line Cosmetics LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware"
+  },
+  {
+    "no": 14,
+    "trn": "100249157300014",
+    "legalName": "SpeedFix Auto Workshop LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket"
+  },
+  {
+    "no": 15,
+    "trn": "100249157300015",
+    "legalName": "IT Source Trading LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories"
+  },
+  {
+    "no": 16,
+    "trn": "100249157300016",
+    "legalName": "KitchenPro Equipment LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading"
+  },
+  {
+    "no": 17,
+    "trn": "100249157300017",
+    "legalName": "PackRight Materials LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant"
+  },
+  {
+    "no": 18,
+    "trn": "100249157300018",
+    "legalName": "MediCare Supplies LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware"
+  },
+  {
+    "no": 19,
+    "trn": "100249157300019",
+    "legalName": "QuickPrint Press LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket"
+  },
+  {
+    "no": 20,
+    "trn": "100249157300020",
+    "legalName": "CleanChem Trading LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories"
+  },
+  {
+    "no": 21,
+    "trn": "100249157300021",
+    "legalName": "Apex Construction LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading"
+  },
+  {
+    "no": 22,
+    "trn": "100249157300022",
+    "legalName": "Interior Vision LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant"
+  },
+  {
+    "no": 23,
+    "trn": "100249157300023",
+    "legalName": "EventPlus LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware"
+  },
+  {
+    "no": 24,
+    "trn": "100249157300024",
+    "legalName": "AdWorks Marketing LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket"
+  },
+  {
+    "no": 25,
+    "trn": "100249157300025",
+    "legalName": "FastTrack Logistics LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories"
+  },
+  {
+    "no": 26,
+    "trn": "100249157300026",
+    "legalName": "RoadLink Transport LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading"
+  },
+  {
+    "no": 27,
+    "trn": "100249157300027",
+    "legalName": "SteelCraft Fabrication LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant"
+  },
+  {
+    "no": 28,
+    "trn": "100249157300028",
+    "legalName": "SecureGuard Services LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware"
+  },
+  {
+    "no": 29,
+    "trn": "100249157300029",
+    "legalName": "Sparkle Cleaning LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket"
+  },
+  {
+    "no": 30,
+    "trn": "100249157300030",
+    "legalName": "GreenScape Landscaping LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories"
+  },
+  {
+    "no": 31,
+    "trn": "100249157300031",
+    "legalName": "HomeFind Realty LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading"
+  },
+  {
+    "no": 32,
+    "trn": "100249157300032",
+    "legalName": "MaintainPro Services LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant"
+  },
+  {
+    "no": 33,
+    "trn": "100249157300033",
+    "legalName": "MiniTech Manufacturing LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware"
+  },
+  {
+    "no": 34,
+    "trn": "100249157300034",
+    "legalName": "Royal Catering LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket"
+  },
+  {
+    "no": 35,
+    "trn": "100249157300035",
+    "legalName": "FitLife Gym LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories"
+  },
+  {
+    "no": 36,
+    "trn": "100249157300036",
+    "legalName": "FreshWash Laundry LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading"
+  },
+  {
+    "no": 37,
+    "trn": "100249157300037",
+    "legalName": "Global Freight LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant"
+  },
+  {
+    "no": 38,
+    "trn": "100249157300038",
+    "legalName": "DigitalBoost LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware"
+  },
+  {
+    "no": 39,
+    "trn": "100249157300039",
+    "legalName": "Insight Consultancy LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket"
+  },
+  {
+    "no": 40,
+    "trn": "100249157300040",
+    "legalName": "SoftNova Technologies LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories"
+  },
+  {
+    "no": 41,
+    "trn": "100249157300041",
+    "legalName": "MegaTrade LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading"
+  },
+  {
+    "no": 42,
+    "trn": "100249157300042",
+    "legalName": "Alpha Manufacturing LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant"
+  },
+  {
+    "no": 43,
+    "trn": "100249157300043",
+    "legalName": "RetailHub LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware"
+  },
+  {
+    "no": 44,
+    "trn": "100249157300044",
+    "legalName": "Prime Distribution LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket"
+  },
+  {
+    "no": 45,
+    "trn": "100249157300045",
+    "legalName": "Elite Contracting LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories"
+  },
+  {
+    "no": 46,
+    "trn": "100249157300046",
+    "legalName": "CityTrade LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading"
+  },
+  {
+    "no": 47,
+    "trn": "100249157300047",
+    "legalName": "Industrial Tools LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant"
+  },
+  {
+    "no": 48,
+    "trn": "100249157300048",
+    "legalName": "Wholesale Zone LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware"
+  },
+  {
+    "no": 49,
+    "trn": "100249157300049",
+    "legalName": "ImportPlus LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket"
+  },
+  {
+    "no": 50,
+    "trn": "100249157300050",
+    "legalName": "ServicePoint LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories"
+  },
+  {
+    "no": 51,
+    "trn": "100249157300051",
+    "legalName": "BuildTech Manufacturing LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading"
+  },
+  {
+    "no": 52,
+    "trn": "100249157300052",
+    "legalName": "Skyline Construction LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant"
+  },
+  {
+    "no": 53,
+    "trn": "100249157300053",
+    "legalName": "Metro Trading LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware"
+  },
+  {
+    "no": 54,
+    "trn": "100249157300054",
+    "legalName": "RetailKing LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket"
+  },
+  {
+    "no": 55,
+    "trn": "100249157300055",
+    "legalName": "Expert Consultancy LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories"
+  },
+  {
+    "no": 56,
+    "trn": "100249157300056",
+    "legalName": "StorageMax LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading"
+  },
+  {
+    "no": 57,
+    "trn": "100249157300057",
+    "legalName": "AutoParts World LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant"
+  },
+  {
+    "no": 58,
+    "trn": "100249157300058",
+    "legalName": "ITServe LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware"
+  },
+  {
+    "no": 59,
+    "trn": "100249157300059",
+    "legalName": "SupplyChain LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket"
+  },
+  {
+    "no": 60,
+    "trn": "100249157300060",
+    "legalName": "FoodWorks Processing LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories"
+  },
+  {
+    "no": 61,
+    "trn": "100249157300061",
+    "legalName": "ProManufacture LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading"
+  },
+  {
+    "no": 62,
+    "trn": "100249157300062",
+    "legalName": "TradeBridge LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant"
+  },
+  {
+    "no": 63,
+    "trn": "100249157300063",
+    "legalName": "MegaBuild Construction LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware"
+  },
+  {
+    "no": 64,
+    "trn": "100249157300064",
+    "legalName": "RetailOne LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket"
+  },
+  {
+    "no": 65,
+    "trn": "100249157300065",
+    "legalName": "CodeLab Software LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories"
+  },
+  {
+    "no": 66,
+    "trn": "100249157300066",
+    "legalName": "MoveFast Logistics LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading"
+  },
+  {
+    "no": 67,
+    "trn": "100249157300067",
+    "legalName": "BizConsult LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant"
+  },
+  {
+    "no": 68,
+    "trn": "100249157300068",
+    "legalName": "DistribuPlus LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware"
+  },
+  {
+    "no": 69,
+    "trn": "100249157300069",
+    "legalName": "IndusManufacturing LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket"
+  },
+  {
+    "no": 70,
+    "trn": "100249157300070",
+    "legalName": "CityTrade Hub LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories"
+  },
+  {
+    "no": 71,
+    "trn": "100249157300071",
+    "legalName": "RetailGroup LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading"
+  },
+  {
+    "no": 72,
+    "trn": "100249157300072",
+    "legalName": "BuildSmart Contracting LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant"
+  },
+  {
+    "no": 73,
+    "trn": "100249157300073",
+    "legalName": "FoodMart Trading LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware"
+  },
+  {
+    "no": 74,
+    "trn": "100249157300074",
+    "legalName": "ToolMaster Industrial LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket"
+  },
+  {
+    "no": 75,
+    "trn": "100249157300075",
+    "legalName": "AdVision LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories"
+  },
+  {
+    "no": 76,
+    "trn": "100249157300076",
+    "legalName": "GroupHold Parent LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading"
+  },
+  {
+    "no": 77,
+    "trn": "100249157300077",
+    "legalName": "SubOne Trading LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant"
+  },
+  {
+    "no": 78,
+    "trn": "100249157300078",
+    "legalName": "CloseDown Services LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware"
+  },
+  {
+    "no": 79,
+    "trn": "100249157300079",
+    "legalName": "MidYear Ventures LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket"
+  },
+  {
+    "no": 80,
+    "trn": "100249157300080",
+    "legalName": "FiscalChange LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories"
+  },
+  {
+    "no": 81,
+    "trn": "100249157300081",
+    "legalName": "SmartBiz Solutions LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading"
+  },
+  {
+    "no": 82,
+    "trn": "100249157300082",
+    "legalName": "BulkTrade International LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant"
+  },
+  {
+    "no": 83,
+    "trn": "100249157300083",
+    "legalName": "FinanceHeavy Industries LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware"
+  },
+  {
+    "no": 84,
+    "trn": "100249157300084",
+    "legalName": "InterestCap Trading LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket"
+  },
+  {
+    "no": 85,
+    "trn": "100249157300085",
+    "legalName": "CapitalGain Properties LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories"
+  },
+  {
+    "no": 86,
+    "trn": "100249157300086",
+    "legalName": "DividendHold Investments LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading"
+  },
+  {
+    "no": 87,
+    "trn": "100249157300087",
+    "legalName": "LeasePro Services LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant"
+  },
+  {
+    "no": 88,
+    "trn": "100249157300088",
+    "legalName": "ConstructPlus LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware"
+  },
+  {
+    "no": 89,
+    "trn": "100249157300089",
+    "legalName": "StockAdjust Retail LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket"
+  },
+  {
+    "no": 90,
+    "trn": "100249157300090",
+    "legalName": "AccrualTech Services LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories"
+  },
+  {
+    "no": 91,
+    "trn": "100249157300091",
+    "legalName": "LongTerm Projects LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading"
+  },
+  {
+    "no": 92,
+    "trn": "100249157300092",
+    "legalName": "OwnerPay Trading LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant"
+  },
+  {
+    "no": 93,
+    "trn": "100249157300093",
+    "legalName": "Restructure Holdings LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware"
+  },
+  {
+    "no": 94,
+    "trn": "100249157300094",
+    "legalName": "ImpairmentFix Manufacturing LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket"
+  },
+  {
+    "no": 95,
+    "trn": "100249157300095",
+    "legalName": "InsureClaim Trading LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories"
+  },
+  {
+    "no": 96,
+    "trn": "100249157300096",
+    "legalName": "BranchLink Services LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading"
+  },
+  {
+    "no": 97,
+    "trn": "100249157300097",
+    "legalName": "MultiSegment Industries LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant"
+  },
+  {
+    "no": 98,
+    "trn": "100249157300098",
+    "legalName": "VATAdjust Retail LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware"
+  },
+  {
+    "no": 99,
+    "trn": "100249157300099",
+    "legalName": "AuditNote Trading LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket"
+  },
+  {
+    "no": 100,
+    "trn": "100249157300100",
+    "legalName": "MegaEnterprise Group LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories"
+  }
+]
