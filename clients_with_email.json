@@ -1,0 +1,802 @@
+[
+  {
+    "no": 1,
+    "trn": "100249157300001",
+    "legalName": "Al Noor Trading LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading",
+    "email": "alnoortrading@example.com"
+  },
+  {
+    "no": 2,
+    "trn": "100249157300002",
+    "legalName": "Star Restaurant LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant",
+    "email": "starrestaurant@example.com"
+  },
+  {
+    "no": 3,
+    "trn": "100249157300003",
+    "legalName": "Gulf Hardware Trading LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware",
+    "email": "gulfhardwaretrading@example.com"
+  },
+  {
+    "no": 4,
+    "trn": "100249157300004",
+    "legalName": "Fresh Mart Supermarket LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket",
+    "email": "freshmartsupermarket@example.com"
+  },
+  {
+    "no": 5,
+    "trn": "100249157300005",
+    "legalName": "Mobile Hub Trading LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories",
+    "email": "mobilehubtrading@example.com"
+  },
+  {
+    "no": 6,
+    "trn": "100249157300006",
+    "legalName": "Fashion World Garments LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading",
+    "email": "fashionworldgarments@example.com"
+  },
+  {
+    "no": 7,
+    "trn": "100249157300007",
+    "legalName": "BuildPro Materials LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant",
+    "email": "buildpromaterials@example.com"
+  },
+  {
+    "no": 8,
+    "trn": "100249157300008",
+    "legalName": "AutoSpare Hub LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware",
+    "email": "autosparehub@example.com"
+  },
+  {
+    "no": 9,
+    "trn": "100249157300009",
+    "legalName": "TechZone Distribution LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket",
+    "email": "techzonedistribution@example.com"
+  },
+  {
+    "no": 10,
+    "trn": "100249157300010",
+    "legalName": "Royal Perfumes Trading LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories",
+    "email": "royalperfumestrading@example.com"
+  },
+  {
+    "no": 11,
+    "trn": "100249157300011",
+    "legalName": "Comfort Furniture LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading",
+    "email": "comfortfurniture@example.com"
+  },
+  {
+    "no": 12,
+    "trn": "100249157300012",
+    "legalName": "Prime Grocery Wholesale LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant",
+    "email": "primegrocerywholesale@example.com"
+  },
+  {
+    "no": 13,
+    "trn": "100249157300013",
+    "legalName": "Beauty Line Cosmetics LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware",
+    "email": "beautylinecosmetics@example.com"
+  },
+  {
+    "no": 14,
+    "trn": "100249157300014",
+    "legalName": "SpeedFix Auto Workshop LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket",
+    "email": "speedfixautoworkshop@example.com"
+  },
+  {
+    "no": 15,
+    "trn": "100249157300015",
+    "legalName": "IT Source Trading LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories",
+    "email": "itsourcetrading@example.com"
+  },
+  {
+    "no": 16,
+    "trn": "100249157300016",
+    "legalName": "KitchenPro Equipment LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading",
+    "email": "kitchenproequipment@example.com"
+  },
+  {
+    "no": 17,
+    "trn": "100249157300017",
+    "legalName": "PackRight Materials LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant",
+    "email": "packrightmaterials@example.com"
+  },
+  {
+    "no": 18,
+    "trn": "100249157300018",
+    "legalName": "MediCare Supplies LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware",
+    "email": "medicaresupplies@example.com"
+  },
+  {
+    "no": 19,
+    "trn": "100249157300019",
+    "legalName": "QuickPrint Press LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket",
+    "email": "quickprintpress@example.com"
+  },
+  {
+    "no": 20,
+    "trn": "100249157300020",
+    "legalName": "CleanChem Trading LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories",
+    "email": "cleanchemtrading@example.com"
+  },
+  {
+    "no": 21,
+    "trn": "100249157300021",
+    "legalName": "Apex Construction LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading",
+    "email": "apexconstruction@example.com"
+  },
+  {
+    "no": 22,
+    "trn": "100249157300022",
+    "legalName": "Interior Vision LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant",
+    "email": "interiorvision@example.com"
+  },
+  {
+    "no": 23,
+    "trn": "100249157300023",
+    "legalName": "EventPlus LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware",
+    "email": "eventplus@example.com"
+  },
+  {
+    "no": 24,
+    "trn": "100249157300024",
+    "legalName": "AdWorks Marketing LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket",
+    "email": "adworksmarketing@example.com"
+  },
+  {
+    "no": 25,
+    "trn": "100249157300025",
+    "legalName": "FastTrack Logistics LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories",
+    "email": "fasttracklogistics@example.com"
+  },
+  {
+    "no": 26,
+    "trn": "100249157300026",
+    "legalName": "RoadLink Transport LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading",
+    "email": "roadlinktransport@example.com"
+  },
+  {
+    "no": 27,
+    "trn": "100249157300027",
+    "legalName": "SteelCraft Fabrication LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant",
+    "email": "steelcraftfabrication@example.com"
+  },
+  {
+    "no": 28,
+    "trn": "100249157300028",
+    "legalName": "SecureGuard Services LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware",
+    "email": "secureguardservices@example.com"
+  },
+  {
+    "no": 29,
+    "trn": "100249157300029",
+    "legalName": "Sparkle Cleaning LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket",
+    "email": "sparklecleaning@example.com"
+  },
+  {
+    "no": 30,
+    "trn": "100249157300030",
+    "legalName": "GreenScape Landscaping LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories",
+    "email": "greenscapelandscaping@example.com"
+  },
+  {
+    "no": 31,
+    "trn": "100249157300031",
+    "legalName": "HomeFind Realty LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading",
+    "email": "homefindrealty@example.com"
+  },
+  {
+    "no": 32,
+    "trn": "100249157300032",
+    "legalName": "MaintainPro Services LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant",
+    "email": "maintainproservices@example.com"
+  },
+  {
+    "no": 33,
+    "trn": "100249157300033",
+    "legalName": "MiniTech Manufacturing LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware",
+    "email": "minitechmanufacturing@example.com"
+  },
+  {
+    "no": 34,
+    "trn": "100249157300034",
+    "legalName": "Royal Catering LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket",
+    "email": "royalcatering@example.com"
+  },
+  {
+    "no": 35,
+    "trn": "100249157300035",
+    "legalName": "FitLife Gym LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories",
+    "email": "fitlifegym@example.com"
+  },
+  {
+    "no": 36,
+    "trn": "100249157300036",
+    "legalName": "FreshWash Laundry LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading",
+    "email": "freshwashlaundry@example.com"
+  },
+  {
+    "no": 37,
+    "trn": "100249157300037",
+    "legalName": "Global Freight LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant",
+    "email": "globalfreight@example.com"
+  },
+  {
+    "no": 38,
+    "trn": "100249157300038",
+    "legalName": "DigitalBoost LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware",
+    "email": "digitalboost@example.com"
+  },
+  {
+    "no": 39,
+    "trn": "100249157300039",
+    "legalName": "Insight Consultancy LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket",
+    "email": "insightconsultancy@example.com"
+  },
+  {
+    "no": 40,
+    "trn": "100249157300040",
+    "legalName": "SoftNova Technologies LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories",
+    "email": "softnovatechnologies@example.com"
+  },
+  {
+    "no": 41,
+    "trn": "100249157300041",
+    "legalName": "MegaTrade LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading",
+    "email": "megatrade@example.com"
+  },
+  {
+    "no": 42,
+    "trn": "100249157300042",
+    "legalName": "Alpha Manufacturing LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant",
+    "email": "alphamanufacturing@example.com"
+  },
+  {
+    "no": 43,
+    "trn": "100249157300043",
+    "legalName": "RetailHub LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware",
+    "email": "retailhub@example.com"
+  },
+  {
+    "no": 44,
+    "trn": "100249157300044",
+    "legalName": "Prime Distribution LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket",
+    "email": "primedistribution@example.com"
+  },
+  {
+    "no": 45,
+    "trn": "100249157300045",
+    "legalName": "Elite Contracting LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories",
+    "email": "elitecontracting@example.com"
+  },
+  {
+    "no": 46,
+    "trn": "100249157300046",
+    "legalName": "CityTrade LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading",
+    "email": "citytrade@example.com"
+  },
+  {
+    "no": 47,
+    "trn": "100249157300047",
+    "legalName": "Industrial Tools LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant",
+    "email": "industrialtools@example.com"
+  },
+  {
+    "no": 48,
+    "trn": "100249157300048",
+    "legalName": "Wholesale Zone LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware",
+    "email": "wholesalezone@example.com"
+  },
+  {
+    "no": 49,
+    "trn": "100249157300049",
+    "legalName": "ImportPlus LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket",
+    "email": "importplus@example.com"
+  },
+  {
+    "no": 50,
+    "trn": "100249157300050",
+    "legalName": "ServicePoint LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories",
+    "email": "servicepoint@example.com"
+  },
+  {
+    "no": 51,
+    "trn": "100249157300051",
+    "legalName": "BuildTech Manufacturing LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading",
+    "email": "buildtechmanufacturing@example.com"
+  },
+  {
+    "no": 52,
+    "trn": "100249157300052",
+    "legalName": "Skyline Construction LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant",
+    "email": "skylineconstruction@example.com"
+  },
+  {
+    "no": 53,
+    "trn": "100249157300053",
+    "legalName": "Metro Trading LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware",
+    "email": "metrotrading@example.com"
+  },
+  {
+    "no": 54,
+    "trn": "100249157300054",
+    "legalName": "RetailKing LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket",
+    "email": "retailking@example.com"
+  },
+  {
+    "no": 55,
+    "trn": "100249157300055",
+    "legalName": "Expert Consultancy LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories",
+    "email": "expertconsultancy@example.com"
+  },
+  {
+    "no": 56,
+    "trn": "100249157300056",
+    "legalName": "StorageMax LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading",
+    "email": "storagemax@example.com"
+  },
+  {
+    "no": 57,
+    "trn": "100249157300057",
+    "legalName": "AutoParts World LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant",
+    "email": "autopartsworld@example.com"
+  },
+  {
+    "no": 58,
+    "trn": "100249157300058",
+    "legalName": "ITServe LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware",
+    "email": "itserve@example.com"
+  },
+  {
+    "no": 59,
+    "trn": "100249157300059",
+    "legalName": "SupplyChain LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket",
+    "email": "supplychain@example.com"
+  },
+  {
+    "no": 60,
+    "trn": "100249157300060",
+    "legalName": "FoodWorks Processing LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories",
+    "email": "foodworksprocessing@example.com"
+  },
+  {
+    "no": 61,
+    "trn": "100249157300061",
+    "legalName": "ProManufacture LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading",
+    "email": "promanufacture@example.com"
+  },
+  {
+    "no": 62,
+    "trn": "100249157300062",
+    "legalName": "TradeBridge LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant",
+    "email": "tradebridge@example.com"
+  },
+  {
+    "no": 63,
+    "trn": "100249157300063",
+    "legalName": "MegaBuild Construction LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware",
+    "email": "megabuildconstruction@example.com"
+  },
+  {
+    "no": 64,
+    "trn": "100249157300064",
+    "legalName": "RetailOne LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket",
+    "email": "retailone@example.com"
+  },
+  {
+    "no": 65,
+    "trn": "100249157300065",
+    "legalName": "CodeLab Software LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories",
+    "email": "codelabsoftware@example.com"
+  },
+  {
+    "no": 66,
+    "trn": "100249157300066",
+    "legalName": "MoveFast Logistics LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading",
+    "email": "movefastlogistics@example.com"
+  },
+  {
+    "no": 67,
+    "trn": "100249157300067",
+    "legalName": "BizConsult LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant",
+    "email": "bizconsult@example.com"
+  },
+  {
+    "no": 68,
+    "trn": "100249157300068",
+    "legalName": "DistribuPlus LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware",
+    "email": "distribuplus@example.com"
+  },
+  {
+    "no": 69,
+    "trn": "100249157300069",
+    "legalName": "IndusManufacturing LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket",
+    "email": "indusmanufacturing@example.com"
+  },
+  {
+    "no": 70,
+    "trn": "100249157300070",
+    "legalName": "CityTrade Hub LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories",
+    "email": "citytradehub@example.com"
+  },
+  {
+    "no": 71,
+    "trn": "100249157300071",
+    "legalName": "RetailGroup LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading",
+    "email": "retailgroup@example.com"
+  },
+  {
+    "no": 72,
+    "trn": "100249157300072",
+    "legalName": "BuildSmart Contracting LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant",
+    "email": "buildsmartcontracting@example.com"
+  },
+  {
+    "no": 73,
+    "trn": "100249157300073",
+    "legalName": "FoodMart Trading LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware",
+    "email": "foodmarttrading@example.com"
+  },
+  {
+    "no": 74,
+    "trn": "100249157300074",
+    "legalName": "ToolMaster Industrial LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket",
+    "email": "toolmasterindustrial@example.com"
+  },
+  {
+    "no": 75,
+    "trn": "100249157300075",
+    "legalName": "AdVision LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories",
+    "email": "advision@example.com"
+  },
+  {
+    "no": 76,
+    "trn": "100249157300076",
+    "legalName": "GroupHold Parent LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading",
+    "email": "groupholdparent@example.com"
+  },
+  {
+    "no": 77,
+    "trn": "100249157300077",
+    "legalName": "SubOne Trading LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant",
+    "email": "subonetrading@example.com"
+  },
+  {
+    "no": 78,
+    "trn": "100249157300078",
+    "legalName": "CloseDown Services LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware",
+    "email": "closedownservices@example.com"
+  },
+  {
+    "no": 79,
+    "trn": "100249157300079",
+    "legalName": "MidYear Ventures LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket",
+    "email": "midyearventures@example.com"
+  },
+  {
+    "no": 80,
+    "trn": "100249157300080",
+    "legalName": "FiscalChange LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories",
+    "email": "fiscalchange@example.com"
+  },
+  {
+    "no": 81,
+    "trn": "100249157300081",
+    "legalName": "SmartBiz Solutions LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading",
+    "email": "smartbizsolutions@example.com"
+  },
+  {
+    "no": 82,
+    "trn": "100249157300082",
+    "legalName": "BulkTrade International LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant",
+    "email": "bulktradeinternational@example.com"
+  },
+  {
+    "no": 83,
+    "trn": "100249157300083",
+    "legalName": "FinanceHeavy Industries LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware",
+    "email": "financeheavyindustries@example.com"
+  },
+  {
+    "no": 84,
+    "trn": "100249157300084",
+    "legalName": "InterestCap Trading LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket",
+    "email": "interestcaptrading@example.com"
+  },
+  {
+    "no": 85,
+    "trn": "100249157300085",
+    "legalName": "CapitalGain Properties LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories",
+    "email": "capitalgainproperties@example.com"
+  },
+  {
+    "no": 86,
+    "trn": "100249157300086",
+    "legalName": "DividendHold Investments LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading",
+    "email": "dividendholdinvestments@example.com"
+  },
+  {
+    "no": 87,
+    "trn": "100249157300087",
+    "legalName": "LeasePro Services LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant",
+    "email": "leaseproservices@example.com"
+  },
+  {
+    "no": 88,
+    "trn": "100249157300088",
+    "legalName": "ConstructPlus LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware",
+    "email": "constructplus@example.com"
+  },
+  {
+    "no": 89,
+    "trn": "100249157300089",
+    "legalName": "StockAdjust Retail LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket",
+    "email": "stockadjustretail@example.com"
+  },
+  {
+    "no": 90,
+    "trn": "100249157300090",
+    "legalName": "AccrualTech Services LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories",
+    "email": "accrualtechservices@example.com"
+  },
+  {
+    "no": 91,
+    "trn": "100249157300091",
+    "legalName": "LongTerm Projects LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading",
+    "email": "longtermprojects@example.com"
+  },
+  {
+    "no": 92,
+    "trn": "100249157300092",
+    "legalName": "OwnerPay Trading LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant",
+    "email": "ownerpaytrading@example.com"
+  },
+  {
+    "no": 93,
+    "trn": "100249157300093",
+    "legalName": "Restructure Holdings LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware",
+    "email": "restructureholdings@example.com"
+  },
+  {
+    "no": 94,
+    "trn": "100249157300094",
+    "legalName": "ImpairmentFix Manufacturing LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket",
+    "email": "impairmentfixmanufacturing@example.com"
+  },
+  {
+    "no": 95,
+    "trn": "100249157300095",
+    "legalName": "InsureClaim Trading LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories",
+    "email": "insureclaimtrading@example.com"
+  },
+  {
+    "no": 96,
+    "trn": "100249157300096",
+    "legalName": "BranchLink Services LLC",
+    "address": "Dubai",
+    "businessActivity": "Trading",
+    "email": "branchlinkservices@example.com"
+  },
+  {
+    "no": 97,
+    "trn": "100249157300097",
+    "legalName": "MultiSegment Industries LLC",
+    "address": "Dubai",
+    "businessActivity": "Restaurant",
+    "email": "multisegmentindustries@example.com"
+  },
+  {
+    "no": 98,
+    "trn": "100249157300098",
+    "legalName": "VATAdjust Retail LLC",
+    "address": "Abu Dhabi",
+    "businessActivity": "Hardware",
+    "email": "vatadjustretail@example.com"
+  },
+  {
+    "no": 99,
+    "trn": "100249157300099",
+    "legalName": "AuditNote Trading LLC",
+    "address": "Sharjah",
+    "businessActivity": "Supermarket",
+    "email": "auditnotetrading@example.com"
+  },
+  {
+    "no": 100,
+    "trn": "100249157300100",
+    "legalName": "MegaEnterprise Group LLC",
+    "address": "Dubai",
+    "businessActivity": "Accessories",
+    "email": "megaenterprisegroup@example.com"
+  }
+]
